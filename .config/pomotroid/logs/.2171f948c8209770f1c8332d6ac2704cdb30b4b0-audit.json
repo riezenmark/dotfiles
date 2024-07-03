@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/riezenmark/.config/pomotroid/logs/.2171f948c8209770f1c8332d6ac2704cdb30b4b0-audit.json",
+    "files": [
+        {
+            "date": 1715563626625,
+            "name": "/home/riezenmark/.config/pomotroid/logs/pomotroid-2024-05-13.log",
+            "hash": "2da1e4529142f0122b43076c14dcc5e1"
+        }
+    ]
+}

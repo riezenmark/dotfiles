@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Dev/banking_microservices-master" value="true" />
+        <entry key="$USER_HOME$/Dev/jemal-sequel-back" value="true" />
+        <entry key="$USER_HOME$/Dev/youtube-client" value="true" />
+        <entry key="$USER_HOME$/IdeaProjects/youtube-client" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

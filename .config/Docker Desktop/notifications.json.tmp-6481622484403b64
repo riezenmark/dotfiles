@@ -1,0 +1,67 @@
+{
+	"notifications": [
+		{
+			"guid": "58424d7f-e12b-46bb-a814-13bea5952ec6",
+			"timestamp": 1716426462991,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "2ca58f77-4500-4f2b-add4-e17f46ed6392",
+			"timestamp": 1716426686574,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "Multi platform image support with containerd is here, try it now!",
+				"icon": "sparkles",
+				"type": "general-purpose",
+				"actionText": "Enable",
+				"action": {
+					"action": "enable-c8d",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "6c89aec0-0954-4c74-9666-a165da92df6d",
+			"timestamp": 1716426695331,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "You must initialize pass before logging in to Docker Desktop",
+				"icon": "error",
+				"type": "action-result",
+				"operation": "user-log-in",
+				"title": "Unable to log in",
+				"actionText": "Learn how",
+				"action": {
+					"action": "open-credential-store-instructions",
+					"params": {}
+				}
+			}
+		},
+		{
+			"guid": "8f79c0b6-8b34-49e5-9e29-198d7e954c50",
+			"timestamp": 1716430204154,
+			"read": true,
+			"displayState": "background",
+			"notification": {
+				"message": "Cannot stop Docker Compose application. Reason: compose [stop] fork/exec /usr/local/bin/com.docker.cli: no such file or directory. ",
+				"icon": "error",
+				"type": "error"
+			}
+		}
+	]
+}

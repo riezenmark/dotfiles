@@ -1,0 +1,120 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2gQnCYdLQGptetSfKgQqvuB0o3q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,scripted-data-editor&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell" />
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "InstalledPluginsSearchHistory": "vim",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "IU-241.15989.150",
+    "MarketplacePluginsSearchHistory": "/suggested\n/sortBy:rating\n/sortBy:downloads",
+    "NewKotlinWizard.buildSystem.type": "GradleKotlinDsl",
+    "NewKotlinWizard.structure.groupId": "me.samoilov",
+    "NewProjectWizard.generateOnboardingTips": "false",
+    "NewProjectWizard.gitState": "true",
+    "NewProjectWizard.gradleDslState": "KOTLIN",
+    "NewProjectWizard.groupIdState": "riezenmark",
+    "NextRunPlatformUpdateBuild": "IU-241.15989.150/2024.1.1",
+    "NextRunPlatformUpdateVersion": "2024.1.1",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.Run Grazie Token Refresher": "true",
+    "RunOnceActivity.java.code.vision.default.position.was.set": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "vim\nkeymap\nsonar\nEnable Full Line suggestions\ngradle",
+    "SonarLint.analyzeAllFiles.hideWarning": "false",
+    "SonarLint.firstAutoAnalysisDate": "1715642358130",
+    "SonarLint.lastPromotionNotificationDate": "1715643558319",
+    "SonarLint.wasReportEverUsed": "true",
+    "android.gradle.sync.needed": "true",
+    "appcds.runOnSecondStart": "IU-221.5787.30-83045e820cfe94d90a7210de5a9a5eba162069a6411ca6120ebfafaa4f210775",
+    "bdt.core.lastUpdateCheck": "1718217689310",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-221.6008.13",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Kotlin",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "enter_selection_count": "1",
+    "evlsprt.221": "188739c4080",
+    "evlsprt3.221": "22",
+    "evlsprt3.241": "4",
+    "experimental.ui.first.promotion.localdate": "2024-05-14",
+    "experimental.ui.on.first.startup": "false",
+    "experimental.ui.onboarding.proposed.version": "241.15989.150",
+    "experimental.ui.used.version": "241.15989.150",
+    "file.gist.reindex.count": "14",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.sonarlint.clean.code.tooltip": "1",
+    "got.it.tooltip.sonarlint.focus.new.code.tooltip": "1",
+    "got.it.tooltip.sonarlint.traffic.light.tooltip": "1",
+    "gotit.previous.run": "IU-221.5787.30",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1717860699939",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "241.15989.150-IJ",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "kotlin.lastUpdateCheck": "1715728784869",
+    "last_opened_file_path": "/home/riezenmark/Dev/banking_microservices-master",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER_HIDDEN",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "Gradle",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "NPW.simple-project.Kotlin",
+    "registry.to.advanced.settings.migration.build": "IU-241.15989.150",
+    "tab_selection_count": "4",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/riezenmark/Dev/banking_microservices-master",
+      "/bin/node",
+      "/home/riezenmark/Dev/jemal-sequel-back",
+      "/home/riezenmark/Applications/terminal-tube/whole.json",
+      "/home/riezenmark/Dev",
+      "/home/riezenmark/.sdkman/candidates/gradle/current/bin"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

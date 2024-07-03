@@ -1,0 +1,219 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="youtube-client" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3owrp7c7sv8ul" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;Properties&quot;: {
+      &quot;usageCount&quot;: 3,
+      &quot;lastUsed&quot;: 1715641576461
+    },
+    &quot;WebPreview&quot;: {
+      &quot;usageCount&quot;: 1,
+      &quot;lastUsed&quot;: 1715641524345
+    },
+    &quot;Kotlin&quot;: {
+      &quot;usageCount&quot;: 6,
+      &quot;lastUsed&quot;: 1715641576826
+    }
+  }
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Properties">
+      <summary usageCount="3" lastUsage="1715641576464" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="6" lastUsage="1715641576826" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/IdeaProjects/youtube-client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="644000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.28264332" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Endpoints" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" show_stripe_button="false" weight="0.3495098" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32988322" />
+      <window_info anchor="right" id="Coverage" order="2" side_tool="true" />
+      <window_info active="true" anchor="right" id="AIAssistant" order="3" visible="true" weight="0.32988322" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+      <unified_weights left="0.28264332" right="0.32988322" />
+    </layout>
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info active="true" anchor="right" id="Meet New UI" order="5" visible="true" weight="0.32988322" />
+      <unified_weights right="0.32988322" />
+    </layoutV2>
+    <recentWindows>
+      <value>AIAssistant</value>
+      <value>Meet New UI</value>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="742" y="255" key="FileChooserDialogImpl" timestamp="1715639091499">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="742" y="255" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715639091499" />
+    <state x="448" y="132" key="SettingsEditor" timestamp="1715639163661">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="132" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715639163661" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gradle/vcs-1/gc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>temurin-21</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>youtube-client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

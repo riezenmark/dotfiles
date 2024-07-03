@@ -1,0 +1,6 @@
+MusicDir = "~/Music"
+
+StartInMusicDir = yes
+
+Theme = dt_theme
+

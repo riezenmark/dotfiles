@@ -1,0 +1,31 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101bb1a516713c000171999832800003346770004
+clientId2=101bb1a516713c000171999832900003346770006
+clientId3=101bb1a516713c000171999832900003346770008
+clientId4=101bb1a516713c000171999832900003346770010
+clientId5=101bb1a516713c000171999832900003346770011
+count=5
+discardCommand1[$e]=rm,$HOME/.config/session/kmix_101bb1a516713c000171999832800003346770004_1719998371_506307
+program1=/usr/bin/kmix
+program2=/usr/bin/kclockd
+program3=/usr/lib/DiscoverNotifier
+program4=/usr/bin/kalendarac
+program5=pulseaudio
+restartCommand1=/usr/bin/kmix,-session,101bb1a516713c000171999832800003346770004_1719998371_506307
+restartCommand2=/usr/bin/kclockd,-session,101bb1a516713c000171999832900003346770006_1719998371_506380
+restartCommand3=/usr/lib/DiscoverNotifier,-session,101bb1a516713c000171999832900003346770008_1719998371_506441
+restartCommand4=/usr/bin/kalendarac,-session,101bb1a516713c000171999832900003346770010_1719998371_506448
+restartCommand5=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=riezenmark
+userId2=riezenmark
+userId3=riezenmark
+userId4=riezenmark
+userId5=riezenmark

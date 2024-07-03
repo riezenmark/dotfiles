@@ -1,0 +1,80 @@
+#!/usr/bin/env bash
+#
+# Script name: dtos-colorscheme
+# Description: Change colorscheme in DTOS.
+# Dependencies: dmenu, dmscripts
+# GitLab: https://www.gitlab.com/dwt1/dtos
+# License: https://www.gitlab.com/dwt1/dtos/LICENSE
+# Contributors: Derek Taylor
+
+# Set with the flags "-e", "-u","-o pipefail" cause the script to fail
+# if certain things happen, which is a good thing.  Otherwise, we can
+# get hidden bugs that are hard to discover.
+set -euo pipefail
+
+# shellcheck disable=SC1091
+source "$HOME/.config/dmscripts/config"
+
+options=("DoomOne"
+"Dracula"
+"GruvboxDark"
+"MonokaiPro"
+"Nord"
+"OceanicNext"
+"Palenight"
+"TomorrowNight")
+
+choice=$(printf '%s\n' "${options[@]}" | ${RMENU} 'Choose color scheme:' "${@}")
+
+if [[ $choice = "DoomOne" ]]; then
+    ## EMACS ##
+    sed -i "s/load-theme '.*/load-theme 'doom-one t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+    emacsclient -e "(load-theme 'doom-one t)" || echo "Emacsclient not running."
+    ln -sf ~/.config/kitty/kitty-doom-one.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "Dracula" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-dracula t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-dracula t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-dracula.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "GruvboxDark" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-gruvbox t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-gruvbox t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-gruvbox-dark.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "MonokaiPro" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-monokai-pro t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-monokai-pro t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-monokai-pro.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "Nord" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-nord t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-nord t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-nord.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "OceanicNext" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-oceanic-next t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-oceanic-next t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-oceanic-next.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "Palenight" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-palenight t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-palenight t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-palenight.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+elif [[ $choice = "TomorrowNight" ]]; then
+      ## EMACS ##
+      sed -i "s/load-theme '.*/load-theme 'doom-tomorrow-night t)/g" "$HOME"/.config/emacs/config.org || echo "Cannot find config.org."
+      emacsclient -e "(load-theme 'doom-tomorrow-night t)" || echo "Emacsclient not running."
+      ln -sf ~/.config/kitty/kitty-tomorrow-night.conf ~/.config/kitty/kitty.conf || echo "Error setting Kitty colors"
+fi
+
+if [ "$choice" ]; then
+    ## XMONAD ##
+    sed  -i "s/import Colors.*/import Colors.$choice/g" "$HOME"/.config/xmonad/xmonad.hs || echo "Cannot modify xmonad.hs"
+    xmonad --restart || echo "Xmonad not running"
+
+# What to do if we just escape without choosing anything.
+else
+  echo "Program terminated." && exit 0
+fi
+

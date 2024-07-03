@@ -1,0 +1,16 @@
+#!/bin/bash
+
+default_sink=$(pactl get-default-sink)
+
+pactl set-sink-volume "${default_sink}" +2%
+
+volume=$(pactl get-sink-volume "${default_sink}" | awk '{print substr($5, 1, length($5)-1)}')
+
+if [[ volume -gt 100 ]]; then
+  pactl set-sink-volume "${default_sink}" 100%
+fi
+
+volume=$(pactl get-sink-volume "${default_sink}" | awk '{print substr($5, 1, length($5)-1)}')
+
+notify-send '               ' -i notification-audio-volume-high -h int:value:$volume -h string:x-canonical-private-synchronous:volume
+

@@ -1,0 +1,285 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">aW1hZ2U=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/Dev/youtube-client">
+      <jump line="7" column="0" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="7" column="41" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Applications/terminal-tube/whole.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="19" column="19" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="24" column="52" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="30" column="96" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="33" column="0" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="32" column="13" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="18" column="7" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="10" column="7" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="9" column="5" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="0" column="8" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="15" column="48" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="16" column="52" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="12" column="48" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="17" column="57" filename="$USER_HOME$/Dev/youtube-client/build.gradle.kts" />
+      <jump line="11" column="8" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="588" column="11" filename="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/net/URL.java" />
+      <jump line="40" column="19" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="55" column="13" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="50" column="31" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="18" column="8" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="58" column="24" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="39" column="4" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="36" column="30" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="35" column="18" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="38" column="20" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="16" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="73" column="63" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="62" column="13" filename="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql.rowset/javax/sql/rowset/serial/SerialBlob.java" />
+      <jump line="58" column="17" filename="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql/java/sql/Blob.java" />
+      <jump line="60" column="20" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="60" column="11" filename="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/io/InputStream.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.45.3.0/6ae68e5fbf0d184c2f8191818fbe66e4dd70e14/sqlite-jdbc-3.45.3.0.jar!/org/sqlite/jdbc4/JDBC4PreparedStatement.class" />
+      <jump line="34" column="56" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="17" column="28" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="43" column="22" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="31" column="47" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="33" column="63" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="14" column="37" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="23" column="47" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="27" column="12" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="19" column="34" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="30" column="4" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="24" column="29" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="15" column="25" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="28" column="36" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="21" column="24" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="26" column="23" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="96" column="16" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="89" column="41" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="82" column="18" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="66" column="22" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="59" column="59" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="45" column="76" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="42" column="4" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="48" column="32" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="3" column="28" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+    </project>
+    <project id="$USER_HOME$/Dev/jemal-sequel-back">
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" />
+      <jump line="6" column="25" filename="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" />
+      <jump line="4" column="27" filename="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/.gradle/buildOutputCleanup/cache.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/app/local/docker-compose.yml" />
+      <jump line="15" column="6" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/kotlin/su/jemalsequel/library/author/controller/AuthorController.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/handler/ApiExceptionHandler.kt" />
+      <jump line="11" column="3" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/logging/src/main/kotlin/su/jemalsequel/logging/aspect/BasicLoggedHttpExchangeAspect.kt" />
+      <jump line="11" column="3" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/handler/ApiExceptionHandler.kt" />
+      <jump line="141" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/.pipeline/Dockerfile" />
+      <jump line="136" column="22" filename="$USER_HOME$/Dev/jemal-sequel-back/.pipeline/Dockerfile" />
+      <jump line="130" column="36" filename="$USER_HOME$/Dev/jemal-sequel-back/.pipeline/Dockerfile" />
+      <jump line="61" column="11" filename="$USER_HOME$/Dev/jemal-sequel-back/filestore/src/main/kotlin/su/jemalsequel/filestore/file/service/FileService.kt" />
+      <jump line="12" column="41" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/logging/src/main/kotlin/su/jemalsequel/logging/pointcut/LoggedHttpExchangePointcut.kt" />
+      <jump line="12" column="35" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/logging/src/main/kotlin/su/jemalsequel/logging/pointcut/LoggedMethodPointcut.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/app/src/main/kotlin/su/jemalsequel/configuration/SecurityConfiguration.kt" />
+      <jump line="16" column="10" filename="$USER_HOME$/Dev/jemal-sequel-back/.k8s/application.yaml" />
+      <jump line="25" column="44" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt" />
+      <jump line="31" column="8" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt" />
+      <jump line="22" column="53" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt" />
+      <jump line="26" column="48" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/build.gradle.kts" />
+      <jump line="22" column="59" filename="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/build.gradle.kts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/app/src/main/kotlin/su/jemalsequel/JemalSequelApplication.kt" />
+      <jump line="12" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/app/src/main/kotlin/su/jemalsequel/JemalSequelApplication.kt" />
+      <jump line="17" column="17" filename="$USER_HOME$/Dev/jemal-sequel-back/app/local/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/README.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt" />
+      <jump line="36" column="83" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt" />
+      <jump line="43" column="59" filename="$USER_HOME$/Dev/jemal-sequel-back/library/build.gradle.kts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/app/local/docker-compose.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" />
+      <jump line="2" column="70" filename="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" />
+      <jump line="5" column="51" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/resources/graphql/library.graphqls" />
+      <jump line="3" column="36" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/resources/graphql/library.graphqls" />
+      <jump line="9" column="82" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/resources/graphql/library.graphqls" />
+      <jump line="0" column="15" filename="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/resources/graphql/library.graphqls" />
+    </project>
+    <project id="youtube-client">
+      <jump line="23" column="20" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+      <jump line="26" column="37" filename="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" />
+    </project>
+    <project id="$USER_HOME$/Dev/banking_microservices-master">
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/banking_microservices-master/build.gradle" />
+      <jump line="17" column="25" filename="$USER_HOME$/Dev/banking_microservices-master/build.gradle" />
+      <jump line="24" column="0" filename="$USER_HOME$/Dev/banking_microservices-master/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dev/banking_microservices-master/settings.gradle" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/Dummy.txt" timestamp="1717860697701">
+        <mark key="&quot;" line="0" column="15" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/handler/ApiExceptionHandler.kt" timestamp="1717860784868">
+        <mark key="&quot;" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql/java/sql/Blob.java" timestamp="1715728106813">
+        <mark key="&quot;" line="58" column="17" />
+      </file>
+      <file name="$USER_HOME$/Dev/youtube-client/build.gradle.kts" timestamp="1715742738183">
+        <mark key="&quot;" line="17" column="57" />
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="55" />
+        <mark key="^" line="17" column="56" />
+      </file>
+      <file name="/graphql.variables.json" timestamp="1718217686865">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/app/local/docker-compose.yml" timestamp="1716127047115">
+        <mark key="&quot;" line="14" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/banking_microservices-master/settings.gradle" timestamp="1716427320493">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.45.3.0/6ae68e5fbf0d184c2f8191818fbe66e4dd70e14/sqlite-jdbc-3.45.3.0.jar!/org/sqlite/jdbc4/JDBC4PreparedStatement.class" timestamp="1715728229518">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/youtube-client/src/main/kotlin/Main.kt" timestamp="1715742738163">
+        <mark key="&quot;" line="10" column="0" />
+        <mark key="[" line="41" column="88" />
+        <mark key="]" line="41" column="85" />
+        <mark key="^" line="41" column="85" />
+        <mark key="." line="41" column="84" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/README.md" timestamp="1717860713450">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/.pipeline/Dockerfile" timestamp="1717860787803">
+        <mark key="&quot;" line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/io/InputStream.java" timestamp="1715728157662">
+        <mark key="&quot;" line="60" column="11" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/app/local/grafana/provisioning/dashboards/Hikari Connection Pool.json" timestamp="1717860788957">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/app/src/main/kotlin/su/jemalsequel/JemalSequelApplication.kt" timestamp="1716127047138">
+        <mark key="&quot;" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/resources/graphql/library.graphqls" timestamp="1717860821987">
+        <mark key="&quot;" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/banking_microservices-master/build.gradle" timestamp="1716427320479">
+        <mark key="&quot;" line="24" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql.rowset/javax/sql/rowset/serial/SerialBlob.java" timestamp="1715728105849">
+        <mark key="&quot;" line="62" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1715743289150">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt" timestamp="1716127047092">
+        <mark key="&quot;" line="36" column="83" />
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="874" />
+      </file>
+      <file name="$USER_HOME$/Dev/jemal-sequel-back/gradle/wrapper/gradle-wrapper.properties" timestamp="1717860788361">
+        <mark key="&quot;" line="7" column="0" />
+        <mark key="[" line="2" column="75" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Y2hhbm5lbE5hbWU=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">aW1hZ2U=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">LWphdmFhZ2VudDphZ2VudC9vcGVudGVsZW1ldHJ5LWphdmFhZ2VudC5qYXIgLURvdGVsLnNlcnZpY2UubmFtZT1qZW1hbC1zZXF1ZWwtYmFjayAtRG90ZWwucmVzb3VyY2UuYQo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByZXBhcmVkU3RhdGVtZW50LnNldEJ5dGVzKDMsIGltYWdlQnl0ZXMpCg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgIGltYWdlQnl0ZXM6IEJ5dGVBcnJheSwK</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

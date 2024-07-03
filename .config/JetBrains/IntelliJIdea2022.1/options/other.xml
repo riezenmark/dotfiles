@@ -1,0 +1,69 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2gQnCYdLQGptetSfKgQqvuB0o3q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "NewKotlinWizard.buildSystem.type": "GradleKotlinDsl",
+    "NewKotlinWizard.structure.groupId": "me.samoilov",
+    "NextRunPlatformUpdateBuild": "IU-241.15989.150/2024.1.1",
+    "NextRunPlatformUpdateVersion": "2024.1.1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "gradle",
+    "android.gradle.sync.needed": "true",
+    "appcds.runOnSecondStart": "IU-221.5787.30-83045e820cfe94d90a7210de5a9a5eba162069a6411ca6120ebfafaa4f210775",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IU-221.6008.13",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Kotlin",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "evlsprt.221": "188739c4080",
+    "evlsprt3.221": "22",
+    "file.gist.reindex.count": "13",
+    "fileTypeChangedCounter": "1",
+    "got.it.tooltip.cwm.invitation.notification": "1",
+    "gotit.previous.run": "IU-221.5787.30",
+    "ide.memory.adjusted": "true",
+    "ide.self.update.started.for.build": "IU-221.6008.13",
+    "ide.updates.whats.new.shown.for": "221",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "221-1.6.21-release-337-IJ5787.30",
+    "jdk.selected.JAVA_MODULE": "temurin-21",
+    "last_opened_file_path": "/home/riezenmark/Dev",
+    "org.jetbrains.kotlin.tools.projectWizard.KotlinNewProjectWizard$Step.selectedStep": "Gradle",
+    "project.wizard.group": "newWizard.com.intellij.ide.wizard.NewProjectBuilder",
+    "registry.to.advanced.settings.migration.build": "IU-221.5787.30",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/riezenmark/.sdkman/candidates/gradle/current/bin",
+      "/home/riezenmark/Dev"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+device_id=$(xinput list | grep Touchpad | awk 'match($0, /id=/){idstr=substr($0, RSTART+3, 2); gsub(" ", "", idstr); gsub("\t", "", idstr); print idstr}')
+prop_id=$(xinput list-props $device_id | grep "Tapping Enabled (" | awk 'match($0, /\(.+\)/){print substr($0, RSTART+1, RLENGTH-2)}')
+xinput set-prop $device_id $prop_id 1

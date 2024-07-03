@@ -1,0 +1,6 @@
+2024/07/01-21:34:56.260 7fd Reusing MANIFEST /home/riezenmark/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/01-21:34:56.274 7fd Recovering log #33
+2024/07/01-21:34:56.275 7fd Reusing old log /home/riezenmark/.config/discord/Local Storage/leveldb/000033.log 
+2024/07/01-21:50:27.322 7fd Level-0 table #37: started
+2024/07/01-21:50:27.349 7fd Level-0 table #37: 780978 bytes OK
+2024/07/01-21:50:27.353 7fd Delete type=0 #33

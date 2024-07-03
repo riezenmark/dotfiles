@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1838" height="401" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1838" height="454" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1838" height="454" />
+  </component>
+  <component name="WindowManager">
+    <frame x="16" y="40" width="1884" height="1020" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="278" y="278" key="#HTTP_Proxy" timestamp="1715641435217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="278" y="278" key="#HTTP_Proxy/0.0.1920.1080/1920.0.1920.1080" timestamp="1715641435217" />
+    <state x="746" y="323" key="FileChooserDialogImpl" timestamp="1716127060039">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="746" y="323" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080" timestamp="1716127060039" />
+    <state x="1434" y="550" width="932" height="1020" key="WELCOME_SCREEN" timestamp="1716127061358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1434" y="550" width="932" height="1020" key="WELCOME_SCREEN/0.0.1920.1080/1920.0.1920.1080" timestamp="1716127061358" />
+    <state x="558" y="250" width="800" height="691" key="new project wizard" timestamp="1715641726547">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="250" width="800" height="691" key="new project wizard/0.0.1920.1080/1920.0.1920.1080" timestamp="1715641726547" />
+  </component>
+</application>

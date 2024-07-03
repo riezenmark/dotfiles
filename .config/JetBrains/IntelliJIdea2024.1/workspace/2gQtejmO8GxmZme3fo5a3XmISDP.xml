@@ -1,0 +1,304 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="youtube-client" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3n3tkb4h1fmc5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#20#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Kotlin": {
+      "usageCount": 14,
+      "lastUsed": 1715742725044
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1715642109332
+    },
+    "JSON": {
+      "usageCount": 1,
+      "lastUsed": 1715643925100
+    },
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1715728147398
+    },
+    "CLASS": {
+      "usageCount": 1,
+      "lastUsed": 1715728204641
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imagekk</find>
+      <find />
+      <find>image</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1715728147398" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="1" lastUsage="1715643925100" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="14" lastUsage="1715742725044" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/build}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/build}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/build/libs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src/main/kotlin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youtube-client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/youtube-client/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26232000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Commit" show_stripe_button="false" />
+      <window_info id="Bookmarks" order="0" sideWeight="0.49917218" side_tool="true" weight="0.2502604" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.5008278" visible="true" weight="0.13874207" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33025292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13959143" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="KafkaToolWindow" order="10" />
+      <window_info anchor="bottom" id="Statistic" order="11" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.33025292" />
+      <window_info anchor="bottom" id="GraphQL" order="13" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.32990196" />
+      <window_info anchor="right" id="BigDataToolWindow" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="1" />
+      <window_info anchor="right" id="AIAssistant" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="right" id="Gradle" order="4" visible="true" weight="0.08218816" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="Developer Tools" order="6" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.13959143" left="0.13874207" right="0.08218816" />
+    </layout>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Build</value>
+      <value>SonarLint</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="313" key="FileChooserDialogImpl" timestamp="1715643924163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="313" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715643924163" />
+    <state width="1846" height="311" key="GridCell.Tab.0.bottom" timestamp="1715738548001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715738548001" />
+    <state width="1846" height="311" key="GridCell.Tab.0.center" timestamp="1715738548001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="311" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715738548001" />
+    <state width="1846" height="311" key="GridCell.Tab.0.left" timestamp="1715738548000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="311" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715738548000" />
+    <state width="1846" height="311" key="GridCell.Tab.0.right" timestamp="1715738548001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1846" height="311" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715738548001" />
+    <state x="452" y="200" key="SettingsEditor" timestamp="1715727695286">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="200" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715727695286" />
+    <state x="696" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1715701636138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715701636138" />
+    <state x="737" y="288" key="conflicts.dialog" timestamp="1715709692081">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="288" key="conflicts.dialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715709692081" />
+    <state x="621" y="262" width="672" height="690" key="search.everywhere.popup" timestamp="1715727631402">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="262" width="672" height="690" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715727631402" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Applications/terminal-tube/whole.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-792" />
+      </provider>
+      <provider editor-type-id="scripted-data-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="588" column="11" selection-start-line="588" selection-start-column="11" selection-end-line="588" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql.rowset/javax/sql/rowset/serial/SerialBlob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.sql/java/sql/Blob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.sdkman/candidates/java/21.0.3-tem/lib/src.zip!/java.base/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.45.3.0/6ae68e5fbf0d184c2f8191818fbe66e4dd70e14/sqlite-jdbc-3.45.3.0.jar!/org/sqlite/jdbc4/JDBC4PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#20#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+#!/bin/bash
+
+set -eo pipefail
+
+options=("Enable 2 monitors"
+"Enable laptop monitor only"
+"Enable external monitor only")
+
+config_2_monitors() {
+    xrandr --output eDP-1-1 --mode 1920x1080 --output HDMI-0 --mode 1920x1080 --left-of eDP-1-1
+    xmonad --restart
+    xargs xwallpaper --stretch < ~/.cache/wall
+}
+
+config_laptop_monitor() {
+    xrandr --output eDP-1-1 --mode 1920x1080 --output HDMI-0 --off
+    xmonad --restart
+    xargs xwallpaper --stretch < ~/.cache/wall
+}
+
+config_external_monitor() {
+    xrandr --output eDP-1-1 --off --output HDMI-0 --mode 1920x1080
+    xmonad --restart
+    xargs xwallpaper --stretch < ~/.cache/wall
+}
+
+configure_interactive() {
+    choice=$(printf '%s\n' "${options[@]}" | rofi -dmenu -i -p 'Choose monitor configuration:' "${@}")
+    if [[ $choice = "Enable 2 monitors" ]]; then
+        config_2_monitors
+    elif [[ $choice = "Enable laptop monitor only" ]]; then
+        config_laptop_monitor
+    else
+        config_external_monitor
+    fi
+}
+
+config_default() {
+    monCount=$(echo -n $(xrandr --listmonitors | grep Monitors) | tail -c 1)
+    if [[ $monCount = 2 ]]; then
+        xrandr --output eDP-1-1 --mode 1920x1080 --output HDMI-0 --mode 1920x1080 --left-of eDP-1-1
+        xargs xwallpaper --stretch < ~/.cache/wall
+    else
+        monitor=$(xrandr --listmonitors | grep 0: | awk 'NF>1{print $NF}')
+        xrandr --output $monitor --mode 1920x1080
+        xargs xwallpaper --stretch < ~/.cache/wall
+    fi
+}
+
+main() {
+    while getopts ":i2led" arg; do
+        case "${arg}" in
+        i)
+            configure_interactive
+            ;;
+        2)
+            config_2_monitors
+            ;;
+        l)
+            config_laptop_monitor
+            ;;
+        e)
+            config_external_monitor
+            ;;
+        d)
+            config_default
+            ;;
+        esac
+    done
+}
+
+main "$@"
+

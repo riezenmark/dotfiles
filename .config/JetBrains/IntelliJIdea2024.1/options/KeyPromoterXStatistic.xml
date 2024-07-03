@@ -1,0 +1,96 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Commit">
+        <Item>
+          <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Commit</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Connect">
+        <Item>
+          <IdeaActionID>Docker.RemoteServers.ConnectServer</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Connect</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Function…">
+        <Item>
+          <IdeaActionID>ExtractFunction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+M'</ShortCut>
+          <Description>Function…</Description>
+          <Count>2</Count>
+          <Hit>4</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Declaration or Usages">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B'</ShortCut>
+          <Description>Go to Declaration or Usages</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Home Directory">
+        <Item>
+          <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
+          <ShortCut>'Ctrl+1'</ShortCut>
+          <Description>Home Directory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Load Gradle Changes">
+        <Item>
+          <IdeaActionID>ExternalSystem.ProjectRefreshAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Load Gradle Changes</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'JemalSequelApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JemalSequelApplication'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>35</Count>
+          <Hit>6</Hit>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,58 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dev/youtube-client">
+          <value>
+            <RecentProjectMetaInfo frameTitle="youtube-client – Main.kt [youtube-client.main]" projectWorkspaceId="2gQtejmO8GxmZme3fo5a3XmISDP">
+              <option name="activationTimestamp" value="1715742737560" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.15989.150" />
+              <option name="buildTimestamp" value="1714390920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="12" y="36" width="1892" height="1028" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1715699367750" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/banking_microservices-master">
+          <value>
+            <RecentProjectMetaInfo frameTitle="banking_microservices – settings.gradle (banking_microservices)" projectWorkspaceId="2gglNXvH9McbKav4auEnpB87xZf">
+              <option name="activationTimestamp" value="1716427319962" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.15989.150" />
+              <option name="buildTimestamp" value="1714390920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="16" y="40" width="1884" height="1020" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1716127061883" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Dev/jemal-sequel-back">
+          <value>
+            <RecentProjectMetaInfo frameTitle="backend – docker-compose.yml [backend.app]" opened="true" projectWorkspaceId="2gSToz3JnrLQEn3ujq80i0cOQsx">
+              <option name="activationTimestamp" value="1718220455317" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.15989.150" />
+              <option name="buildTimestamp" value="1714390920000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="16" y="40" width="1884" height="1020" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1716427322879" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Dev/jemal-sequel-back" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dev" />
+  </component>
+</application>

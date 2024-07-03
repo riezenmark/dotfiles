@@ -1,0 +1,25 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-CDOHN2.desktop
+x-scheme-handler/https=userapp-Firefox-CDOHN2.desktop
+x-scheme-handler/chrome=userapp-Firefox-CDOHN2.desktop
+text/html=userapp-Firefox-CDOHN2.desktop
+application/x-extension-htm=userapp-Firefox-CDOHN2.desktop
+application/x-extension-html=userapp-Firefox-CDOHN2.desktop
+application/x-extension-shtml=userapp-Firefox-CDOHN2.desktop
+application/xhtml+xml=userapp-Firefox-CDOHN2.desktop
+application/x-extension-xhtml=userapp-Firefox-CDOHN2.desktop
+application/x-extension-xht=userapp-Firefox-CDOHN2.desktop
+x-scheme-handler/mailspring=Mailspring.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-CDOHN2.desktop;
+x-scheme-handler/https=userapp-Firefox-CDOHN2.desktop;
+x-scheme-handler/chrome=userapp-Firefox-CDOHN2.desktop;
+text/html=userapp-Firefox-CDOHN2.desktop;
+application/x-extension-htm=userapp-Firefox-CDOHN2.desktop;
+application/x-extension-html=userapp-Firefox-CDOHN2.desktop;
+application/x-extension-shtml=userapp-Firefox-CDOHN2.desktop;
+application/xhtml+xml=userapp-Firefox-CDOHN2.desktop;
+application/x-extension-xhtml=userapp-Firefox-CDOHN2.desktop;
+application/x-extension-xht=userapp-Firefox-CDOHN2.desktop;
+video/mp4=mpv.desktop;

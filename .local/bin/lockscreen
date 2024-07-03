@@ -1,0 +1,4 @@
+#!/bin/bash
+
+i3lock -e -B 5 --indicator -k --radius 180 --ring-width 15 --inside-color=282828cc --ring-color=28bb26cc --line-color=282828cc --insidever-color=282828cc --ringver-color=458588cc --insidewrong-color=282828cc --ringwrong-color=fb4934cc --keyhl-color=458588cc --bshl-color=fb4934cc --separator-color=282828cc --time-color=ebdbb2ff --date-color=ebdbb2ff --keylayout 0 --layout-color=ebdbb2ff --verif-color=ebdbb2ff --wrong-color=ebdbb2ff --modif-color=ebdbb2ff --date-str="%A, %d.%m.%Y" --verif-text="Verifying..." --wrong-text='Wrong!' --noinput-text="No input." --time-font="JetBrains Mono Nerd Font" --date-font="JetBrains Mono Nerd Font" --layout-font="JetBrains Mono Nerd Font" --verif-font="JetBrains Mono Nerd Font" --wrong-font="JetBrains Mono Nerd Font" --pass-volume-keys
+

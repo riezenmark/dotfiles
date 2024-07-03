@@ -1,0 +1,26 @@
+2024/07/02-12:34:50.220 887 Reusing MANIFEST /home/riezenmark/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/07/02-12:34:50.230 887 Recovering log #36
+2024/07/02-12:34:50.231 887 Reusing old log /home/riezenmark/.config/discord/Local Storage/leveldb/000036.log 
+2024/07/02-12:37:31.390 888 Level-0 table #40: started
+2024/07/02-12:37:31.420 888 Level-0 table #40: 778097 bytes OK
+2024/07/02-12:37:31.423 888 Delete type=0 #36
+2024/07/02-15:52:47.898 888 Level-0 table #42: started
+2024/07/02-15:52:47.900 888 Level-0 table #42: 11309 bytes OK
+2024/07/02-15:52:47.902 888 Delete type=0 #39
+2024/07/02-15:52:47.902 888 Compacting 4@0 + 2@1 files
+2024/07/02-15:52:47.925 888 Generated table #43@0: 11 keys, 2373054 bytes
+2024/07/02-15:52:47.946 888 Generated table #44@0: 87 keys, 3106967 bytes
+2024/07/02-15:52:47.946 888 Compacted 4@0 + 2@1 files => 5480021 bytes
+2024/07/02-15:52:47.947 888 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/07/02-15:52:47.948 888 Delete type=2 #40
+2024/07/02-15:52:47.948 888 Delete type=2 #42
+2024/07/02-15:52:47.948 888 Delete type=2 #31
+2024/07/02-15:52:47.948 888 Delete type=2 #32
+2024/07/02-15:52:47.948 888 Delete type=2 #34
+2024/07/02-15:52:47.948 888 Delete type=2 #37
+2024/07/02-16:49:51.188 888 Level-0 table #46: started
+2024/07/02-16:49:51.207 888 Level-0 table #46: 2376763 bytes OK
+2024/07/02-16:49:51.209 888 Delete type=0 #41
+2024/07/02-23:14:52.659 888 Level-0 table #48: started
+2024/07/02-23:14:52.666 888 Level-0 table #48: 11100 bytes OK
+2024/07/02-23:14:52.668 888 Delete type=0 #45

@@ -1,0 +1,66 @@
+# User's dunst configuration. Mechanical artistic.
+# https://github.com/owl4ce/dotfiles
+
+[global]
+follow = mouse
+width = (111, 444)
+height = 222
+origin = top-right
+offset = 10x30
+
+progress_bar_height = 5
+progress_bar_min_width = 0
+progress_bar_max_width = 444
+progress_bar_frame_width = 0
+
+transparency = 3
+horizontal_padding = 11
+frame_width = 3
+frame_color = "#ebdbb2"
+gap_size = 8
+separator_color = "#282828"
+idle_threshold = 120
+
+font = "JetBrains Mono Nerd Font"
+
+format = "<span size='x-large' weight='bold' foreground='#ebdbb2'>%s</span>\n%b"
+
+show_age_threshold = 60
+icon_position = left
+min_icon_size = 48
+max_icon_size = 80
+
+enable_recursive_icon_lookup = true
+icon_theme = "Papirus-Dark"
+
+sticky_history = false
+
+browser = "firefox"
+
+mouse_left_click = close_current
+mouse_middle_click = context_all
+mouse_right_click = close_all
+
+markup = full
+always_run_script = true
+
+corner_radius = 8
+
+[urgency_low]
+timeout = 3
+background = "#3b4252"
+foreground = "#f9f9f9"
+highlight = "#f48ee8"
+
+[urgency_normal]
+timeout = 6
+background = "#3b4252"
+foreground = "#f9f9f9"
+highlight = "#f48ee8"
+
+[urgency_critical]
+timeout = 0
+background = "#3b4252"
+foreground = "#f9f9f9"
+highlight = "#f48ee8"
+

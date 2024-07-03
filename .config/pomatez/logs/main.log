@@ -1,0 +1,14 @@
+[2024-05-13 04:21:29.371] [info]  Checking for update
+[2024-05-13 04:21:29.379] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:28:09.202] [info]  Checking for update
+[2024-05-13 04:28:09.210] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:29:18.937] [info]  Checking for update
+[2024-05-13 04:29:18.944] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:29:25.488] [info]  Checking for update
+[2024-05-13 04:29:25.496] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:31:45.523] [info]  Checking for update
+[2024-05-13 04:31:45.532] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:31:58.661] [info]  Checking for update
+[2024-05-13 04:31:58.667] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'
+[2024-05-13 04:33:12.668] [info]  Checking for update
+[2024-05-13 04:33:12.675] [error] Error: Error: ENOENT: no such file or directory, open '/opt/Pomatez/resources/app-update.yml'

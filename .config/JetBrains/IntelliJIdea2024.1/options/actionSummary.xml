@@ -1,0 +1,346 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1715736997557" />
+    </e>
+    <e n="$Delete">
+      <i c="7" l="1715690306552" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1715641144421" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1715643312605" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="5" l="1715690717652" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="4" l="1715690705548" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="6" l="1715699666223" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="2" l="1715690264228" />
+    </e>
+    <e n="ActivateTerminalToolWindow">
+      <i c="6" l="1715792879075" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="5" l="1715728899302" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="3" l="1715639726213" />
+    </e>
+    <e n="CloseAllEditors">
+      <i c="1" l="1715691080151" />
+    </e>
+    <e n="CloseProject">
+      <i c="4" l="1716127046929" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1715708256810" />
+    </e>
+    <e n="DisableNewUi">
+      <i c="1" l="1715641588554" />
+    </e>
+    <e n="Docker.ComposeEditorGroup.SyncWithServiceView">
+      <i c="2" l="1716427697153" />
+    </e>
+    <e n="Docker.RemoteServers.ConnectServer">
+      <i c="1" l="1716428886596" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2225" l="1717860763230" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="9" l="1715728929990" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="243" l="1715729684568" />
+    </e>
+    <e n="EditorCopy">
+      <i c="31" l="1716126958957" />
+    </e>
+    <e n="EditorCut">
+      <i c="19" l="1715729716127" />
+    </e>
+    <e n="EditorDelete">
+      <i c="3" l="1715690989163" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1715727467668" />
+    </e>
+    <e n="EditorDown">
+      <i c="182" l="1715729514208" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="5" l="1716126959716" />
+    </e>
+    <e n="EditorEnter">
+      <i c="220" l="1715743169149" />
+    </e>
+    <e n="EditorEscape">
+      <i c="525" l="1716126955849" />
+    </e>
+    <e n="EditorPaste">
+      <i c="50" l="1715743212881" />
+    </e>
+    <e n="EditorRight">
+      <i c="4" l="1715728744021" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1716126992723" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="5" l="1715725883892" />
+    </e>
+    <e n="EditorTab">
+      <i c="24" l="1715703100698" />
+    </e>
+    <e n="EditorUp">
+      <i c="34" l="1715743043128" />
+    </e>
+    <e n="EnableNewUi">
+      <i c="1" l="1715641567678" />
+    </e>
+    <e n="Exit">
+      <i c="2" l="1715639173148" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="3" l="1715642408571" />
+    </e>
+    <e n="ExternalSystem.ProjectRefreshAction">
+      <i c="10" l="1717860765226" />
+    </e>
+    <e n="ExternalSystem.RefreshAllProjects">
+      <i c="4" l="1715690528947" />
+    </e>
+    <e n="ExternalSystem.RunTask">
+      <i c="37" l="1715743033899" />
+    </e>
+    <e n="ExtractFunction">
+      <i c="9" l="1715728926439" />
+    </e>
+    <e n="FileChooser.Delete">
+      <i c="2" l="1715639156351" />
+    </e>
+    <e n="FileChooser.GotoHome">
+      <i c="1" l="1716127054147" />
+    </e>
+    <e n="FileChooser.ShowHidden">
+      <i c="2" l="1715643914578" />
+    </e>
+    <e n="FileChooser.TogglePathBar">
+      <i c="12" l="1715702989100" />
+    </e>
+    <e n="Find">
+      <i c="4" l="1715732631247" />
+    </e>
+    <e n="Floating.CodeToolbar.Extract">
+      <i c="5" l="1715709688236" />
+    </e>
+    <e n="Floating.CodeToolbar.Surround">
+      <i c="1" l="1715702182745" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1715709417670" />
+    </e>
+    <e n="GotoClass">
+      <i c="4" l="1715703088811" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="5" l="1717860821914" />
+    </e>
+    <e n="HideActiveWindow">
+      <i c="4" l="1715792881018" />
+    </e>
+    <e n="Inline">
+      <i c="1" l="1715728910816" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="10" l="1715643461203" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1716427599584" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="7" l="1715728885124" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1716422102274" />
+    </e>
+    <e n="OptimizeImports">
+      <i c="2" l="1715736990243" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="11" l="1715728501228" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1715701633472" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1715794791351" />
+    </e>
+    <e n="ReformatCode">
+      <i c="4" l="1715736988147" />
+    </e>
+    <e n="RenameElement">
+      <i c="4" l="1715728743389" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1716428992061" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1715743174815" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1715727629981" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="1" l="1715642746294" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1715641586632" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="22" l="1715729660868" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="3" l="1715639127902" />
+    </e>
+    <e n="ShowSettings">
+      <i c="8" l="1715792811187" />
+    </e>
+    <e n="SmartSelect">
+      <i c="3" l="1715642487260" />
+    </e>
+    <e n="SonarLint.toolwindow.Configure">
+      <i c="1" l="1715690644942" />
+    </e>
+    <e n="Stop">
+      <i c="4" l="1716430205566" />
+    </e>
+    <e n="Switcher">
+      <i c="2" l="1715699747270" />
+    </e>
+    <e n="TogglePresentationMode">
+      <i c="2" l="1715642998241" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="4" l="1715641633384" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1716127051365" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="2" l="1715728153571" />
+    </e>
+    <e n="com.intellij.codeInsight.inline.completion.tooltip.InlineCompletionPopupActionGroup">
+      <i c="1" l="1715643470864" />
+    </e>
+    <e n="com.intellij.docker.settings.DockerConnectionConfigurable$createComponent$2$1$1">
+      <i c="1" l="1716427903732" />
+    </e>
+    <e n="com.intellij.execution.ExecutorRegistryImpl$RunSpecifiedConfigExecutorAction">
+      <i c="2" l="1716428893915" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="6" l="1716428991394" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction$2">
+      <i c="1" l="1716427652411" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="12" l="1716428983485" />
+    </e>
+    <e n="com.intellij.execution.ui.FragmentedSettingsBuilder$ToggleFragmentAction">
+      <i c="1" l="1715743208180" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="8" l="1715732633904" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1715732590892" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="4" l="1716427318955" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1715690539716" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="2382" l="1717860763229" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="1" l="1715699747373" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="15" l="1715728229514" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$FindByShortcutAction">
+      <i c="1" l="1715703056303" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1715727631401" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1715699740583" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="7" l="1715792887009" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="4" l="1716427836656" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.DockToolWindowAction">
+      <i c="1" l="1715692890644" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="3" l="1715639725095" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="5" l="1715640147023" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="12" l="1716427337712" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1715690654555" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="2" l="1715642131983" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="5" l="1715641668523" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="3" l="1715638510086" />
+    </e>
+    <e n="com.intellij.ui.popup.WizardPopup$ActionShortcutDelegate">
+      <i c="1" l="1715702184481" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="5" l="1715732580653" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="13" l="1715743174601" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="5" l="1716427830192" />
+    </e>
+    <e n="org.jetbrains.completion.full.line.platform.inline.FullLineInlineCompletionProviderPresentation$GoToSettingsAction">
+      <i c="1" l="1715643472325" />
+    </e>
+    <e n="org.sonarlint.intellij.actions.SonarAnalyzeAllFilesAction">
+      <i c="2" l="1715691100691" />
+    </e>
+    <e n="org.sonarlint.intellij.notifications.OpenGlobalSettingsAction">
+      <i c="1" l="1715690602174" />
+    </e>
+    <e n="org.sonarlint.intellij.ui.traffic.light.SonarLintTrafficLightAction">
+      <i c="2" l="1715690794822" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,606 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="jemal-sequel-back" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3n3tkb4h1fmc5" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="792">
+              <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+              <folding>
+                <element signature="e#47#573#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/local/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/src/main/resources/graphql/library.graphqls">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/commons/graphql/graphql-lib/src/main/resources/graphql/schema.graphqls">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="159">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#220#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/build.gradle.kts">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="946">
+              <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="66">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/su/jemalsequel/JemalSequelApplication.kt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="242">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#24#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Properties": {
+      "usageCount": 4,
+      "lastUsed": 1718217683849
+    },
+    "Markdown": {
+      "usageCount": 13,
+      "lastUsed": 1718217684817
+    },
+    "YAML": {
+      "usageCount": 18,
+      "lastUsed": 1718217683489
+    },
+    "Kotlin": {
+      "usageCount": 58,
+      "lastUsed": 1718217685325
+    },
+    "Dockerfile": {
+      "usageCount": 1,
+      "lastUsed": 1715690949190
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1717860709223
+    },
+    "GraphQL": {
+      "usageCount": 4,
+      "lastUsed": 1718217683711
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/handler/ApiExceptionHandler.kt" />
+      <option value="$PROJECT_DIR$/.pipeline/Dockerfile" />
+      <option value="$PROJECT_DIR$/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt" />
+      <option value="$PROJECT_DIR$/commons/web/exception/web-exception-handling/build.gradle.kts" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt" />
+      <option value="$PROJECT_DIR$/app/local/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1715690949190" />
+    </language>
+    <language id="GraphQL">
+      <summary usageCount="4" lastUsage="1718217683711" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="13" lastUsage="1718217684817" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="4" lastUsage="1718217683849" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="58" lastUsage="1718217685325" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="18" lastUsage="1718217683489" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/app/local}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/gradle}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/gradle}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/gradle/wrapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/riezenmark/Dev/jemal-sequel-back/library/src/main/resources/graphql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.JemalSequelApplication" />
+      <element setting="Docker.local: Compose Deployment" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.docker.runtimes.DockerServerRuntime@188d83c9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" sideWeight="0.49945888" side_tool="true" weight="0.2502654" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.5005411" visible="true" weight="0.29560086" />
+      <window_info id="Merge Requests" order="4" weight="0.32988322" />
+      <window_info id="Commit" order="5" weight="0.3277601" />
+      <window_info id="Learn" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32990196" />
+      <window_info anchor="bottom" x="2002" y="555" width="1838" height="336" id="Run" order="2" visible="true" weight="0.4730392" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Statistic" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="5" />
+      <window_info active="true" anchor="bottom" id="Build" order="6" visible="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="GraphQL" order="8" weight="0.32990196" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="KafkaToolWindow" order="10" />
+      <window_info anchor="bottom" id="Problems View" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33025292" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.2887255" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.32794118" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Endpoints" order="1" />
+      <window_info anchor="right" id="Developer Tools" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <window_info anchor="right" id="Beans" order="5" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Gradle" order="6" visible="true" weight="0.03272532" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.32990196" left="0.29560086" right="0.03272532" />
+    </layout>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Run</value>
+      <value>Services</value>
+      <value>Merge Requests</value>
+      <value>Terminal</value>
+      <value>Gradle</value>
+      <value>SonarLint</value>
+      <value>GraphQL</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="227" width="1484" height="647" key="#Docker" timestamp="1716428944432">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="436" y="227" width="1484" height="647" key="#Docker/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1716428944432" />
+    <state x="558" y="209" key="#Plugins" timestamp="1715690554280">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="209" key="#Plugins/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690554280" />
+    <state x="551" y="319" key="#Project_Settings" timestamp="1715690649855">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="319" key="#Project_Settings/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690649855" />
+    <state x="0" y="326" key="#SonarLint" timestamp="1715690622345">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="326" key="#SonarLint/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690622345" />
+    <state x="558" y="226" width="823" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1716427907491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="226" width="823" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1716427907491" />
+    <state x="2478" y="226" width="809" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692876745" />
+    <state x="647" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1715690316033">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690316033" />
+    <state x="753" y="272" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1715743223817">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="753" y="272" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715743223817" />
+    <state x="746" y="308" key="FileChooserDialogImpl" timestamp="1715690769511">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="746" y="308" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690769511" />
+    <state width="1838" height="454" key="GridCell.Tab.0.bottom" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state width="1838" height="454" key="GridCell.Tab.0.center" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905064" />
+    <state width="1838" height="454" key="GridCell.Tab.0.left" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905064" />
+    <state width="1838" height="454" key="GridCell.Tab.0.right" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state width="1838" height="454" key="GridCell.Tab.1.bottom" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state width="1838" height="454" key="GridCell.Tab.1.center" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state width="1838" height="454" key="GridCell.Tab.1.left" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state width="1838" height="454" key="GridCell.Tab.1.right" timestamp="1715798805076">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="454" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715798805076" />
+    <state width="1838" height="401" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692905065" />
+    <state x="816" y="411" width="783" height="161" key="ProcessPopupWindow" timestamp="1715692855645">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="816" y="411" width="787" height="165" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690533543" />
+    <state x="816" y="411" width="783" height="161" key="ProcessPopupWindow/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1715692855645" />
+    <state x="452" y="200" key="SettingsEditor" timestamp="1715792872053">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="452" y="200" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715792872053" />
+    <state x="621" y="264" key="search.everywhere.popup" timestamp="1715690682267">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="264" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1715690682267" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/kotlin/su/jemalsequel/library/author/controller/AuthorController.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/logging/src/main/kotlin/su/jemalsequel/logging/aspect/BasicLoggedHttpExchangeAspect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/handler/ApiExceptionHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pipeline/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="130" column="36" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filestore/src/main/kotlin/su/jemalsequel/filestore/file/service/FileService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/logging/src/main/kotlin/su/jemalsequel/logging/pointcut/LoggedHttpExchangePointcut.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/logging/src/main/kotlin/su/jemalsequel/logging/pointcut/LoggedMethodPointcut.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/su/jemalsequel/configuration/SecurityConfiguration.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.k8s/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.k8s/local/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/web/exception/web-exception-handling/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/web/exception/web-exception-handling/src/main/kotlin/su/jemalsequel/web/exception/handling/log/LoggingService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/kotlin/su/jemalsequel/library/author/service/AuthorService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="83" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
+          <folding>
+            <element signature="e#47#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/local/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/resources/graphql/library.graphqls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/build.gradle.kts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="66">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/su/jemalsequel/JemalSequelApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#24#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commons/graphql/graphql-lib/src/main/resources/graphql/schema.graphqls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
